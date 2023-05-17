@@ -1,3 +1,26 @@
+//1a. features to reuse:
+function getRandomNumber(minNumber, maxNumber) 
+let player = prompt("Chose:")
+let computer = getRandomNumber(MIN, MAX)
+
+//1b. 
+if(Roque==?)
+alert("you win")
+
+//2. Nathan`s biker
+if(biker == X km)
+alert("Nathan drinks X/2 litres of water")
+
+//3.
+if(user==X)
+alert("1; X-1; X")
+
+//4.
+if(investor==X && time== Z)
+alert("capital obtained is (X + (X x 0,1)")
+
+
+
 <html>
 	<head>
 		<meta charset="utf-8" />
